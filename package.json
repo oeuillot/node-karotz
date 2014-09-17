@@ -1,0 +1,26 @@
+{
+  "name": "node-proto-karotz",
+  "version": "0.0.1",
+  "description": "Dialog with karotz directly",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "latest",
+    "protobufjs": "latest",
+    "node-uuid": "latest",
+    "bytebuffer": "latest",
+    "async": "latest",
+    "express": "latest",
+    "ip": "latest"
+ },
+  "scripts": {
+   },
+  "repository": "",
+  "keywords": [
+    "Node.js",
+    "IPCam",
+    "decoder"
+  ],
+  "author": "Olivier Oeuillot",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
